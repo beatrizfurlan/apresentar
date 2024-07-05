@@ -1,0 +1,94 @@
+bota{
+    background-color: rgb(0, 238, 255);
+}
+body{
+    background-color:rgb(224, 34, 199)
+}
+.ama{
+    width: 350px ;
+    height: 200px;
+    padding-left: 700px;
+    
+
+}
+.lolo{
+    width: 500px;
+    height: 500px;
+    padding-left: 400px;
+}
+.pão{
+    width: 100px;
+    height: 100px;
+    padding-left:00px ;
+}
+.tete{
+    width: 400px;
+    height:500px;
+    padding-left: 800px;
+}
+.presunto{
+    padding-left: 300px;
+    width: 400px;
+    height: 300px;
+}
+.celular{
+    padding-left:350px ;
+}
+.capa{
+    padding-left: 300px;
+    width: 400px;
+    height: 300px;
+}
+.queijo{
+    padding-left: 500px;
+    width: 900px;
+    height: 600px;
+}
+
+.cocacola{
+    padding-left: 300px;
+   
+}
+.caderno{
+    padding-left: 400px;
+}
+.lula{
+    height:300px;
+    width: 400px;
+    padding-left: 300px;
+}
+.bob{
+    padding-left: 550px;
+    height: 700px;
+    width: 400px;
+}
+.estrela{
+    height:300px;
+    width: 400px;
+    padding-left: 300px;
+}
+.cocacola1{
+padding-left: 400px;
+width: 30%;
+
+}
+.luz{
+padding-left:400px ;
+}
+
+.bita{
+    padding-left: 300px;
+    width: 350px;
+    height: 200px;
+}
+.luz{
+    background-color: rgb(255, 0, 242);
+    padding-left: 700px;
+}
+.cocac{
+    background-color: rgb(255,0, 242);
+    padding-left: 700px;
+}
+.linha{
+    display: flex;
+}
